@@ -109,8 +109,10 @@
 .buttons {
   width: 50%;
   margin: 0 auto;
+  margin-bottom: 2rem;
   display: flex;
   justify-content: space-around;
+  align-items: center;
 }
 
 .homeButtons__touchdown,
