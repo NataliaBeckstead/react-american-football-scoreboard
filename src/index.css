@@ -27,10 +27,13 @@ code {
 }
 
 button {
-  display: inline-block;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   border: none;
   padding: 1rem 2rem;
   margin: 0;
+  margin-bottom: 1rem;
   text-decoration: none;
   background: #414141;
   color: #ffffff;
